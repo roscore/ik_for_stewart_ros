@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+  <node pkg="ik_for_stewart_ros" type="ik" name="ik" output="screen"> </node>
+
+</launch>
